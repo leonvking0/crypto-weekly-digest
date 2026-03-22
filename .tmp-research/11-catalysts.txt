@@ -1,0 +1,26 @@
+Based on the latest data for the next 1-2 weeks (March 23 – April 5, 2026), here are the key upcoming crypto catalysts, organized by category:
+
+### **Token Unlocks**
+*   **March 25:** **Humanity (H)**
+    *   **Amount:** 131.2M H (approx. 1.3% of Max Supply). Watch for potential volatility as this liquidity hits the market.
+
+### **Governance & Protocol Upgrades**
+*   **Late March (TBA):** **Polkadot (DOT)**
+    *   **Catalyst:** The highly anticipated **2.1.1 runtime upgrade** is expected to go live. This upgrade introduces the Dynamic Allocation Pool (DAP) and officially puts an end to DOT Treasury burns.
+*   **Late March / Early April:** **Cosmos Hub (ATOM) & Osmosis (OSMO)**
+    *   **Catalyst:** Ongoing governance discussions and voting phases regarding the sweeping proposal to merge Osmosis into the Cosmos Hub (and the conversion of OSMO to ATOM).
+*   **April 2026 (Month-long Focus):** **Uniswap (UNI)**
+    *   **Catalyst:** Following a successful governance vote in early March, the DAO's focus shifts toward the actual implementation of the "fee switch" across eight Layer-2 networks and the initiation of revenue tracking.
+*   **April 2026 (Month-long Focus):** **Ethereum (ETH)**
+    *   **Catalyst:** The Ethereum Foundation's newly published 38-page "CROPS" framework takes effect as the primary filter for protocol upgrades and funding.
+
+### **Regulatory & Macro Events**
+*   **April 3:** **Broader US Crypto Market**
+    *   **Catalyst:** The U.S. **CLARITY Act** is reportedly scheduled for a potential signing. This legislation is a massive milestone aimed at providing a definitive legal distinction between digital asset commodities and securities in the United States.
+
+### **Major Conferences (Ecosystem Sentiments & Announcements)**
+*   **March 24–25:** **Next Block Expo** (Warsaw, Poland) – General Web3 & Blockchain.
+*   **March 24–26:** **Digital Asset Summit** (New York City, USA) – *Affected Assets: RWA (Real World Asset) and On-Chain Finance Protocols.* Highly focused on institutional crypto adoption.
+*   **March 30 – April 2:** **EthCC 9** (Cannes, France) – *Affected Assets: ETH and the EVM/Layer-2 ecosystem.* The premier European Ethereum event, known for major technical and ecosystem announcements.
+*   **April 1:** **Vault Summit** (Cannes, France) – Specialized digital asset management summit alongside EthCC.
+*   **April 1–2:** **UN:BLOCK 2026** (Riga, Latvia) – Focuses on Web3 infrastructure and institutional adoption.

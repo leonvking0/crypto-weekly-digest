@@ -1,0 +1,18 @@
+Based on recent search results, here are the most important prediction market developments for the week of March 16–22, 2026, characterized by major commercial milestones and a significant regulatory crackdown by state authorities:
+
+### 1. Arizona Files Criminal Charges Against Kalshi (March 17, 2026)
+In a major escalation of state-level regulatory pushback, the Arizona Attorney General filed 20 criminal misdemeanor counts against Kalshi. The state alleges that Kalshi operated an unlicensed gambling business by offering markets on sports and local elections, marking the first time a state has pursued criminal enforcement against the platform. 
+* **Sources:** *InvestmentNews, Dentons*
+
+### 2. Argentina Blocks Polymarket Nationwide (March 18, 2026)
+An Argentinian judge ordered a nationwide block on Polymarket. This judicial order marks the first comprehensive restriction of the prediction market platform within Latin America.
+
+### 3. Polymarket Secures Exclusive Partnership with MLB (March 19, 2026)
+In a historic commercial expansion, Major League Baseball (MLB) named Polymarket its exclusive prediction market exchange partner. The multi-year deal, reportedly valued at $150 million, includes a strict "integrity framework" designed to restrict highly granular and high-risk betting markets, such as individual pitches or umpire performance.
+* **Sources:** *MLB.com, iGaming Business, SportsPro*
+
+### 4. Nevada Halts Kalshi Operations via Restraining Order (March 20, 2026)
+Following a ruling by the Ninth Circuit that allowed the state to proceed with its case, a Nevada judge issued a 14-day temporary restraining order halting all of Kalshi’s operations within the state. This adds to the ongoing "jurisdictional war" between state authorities and the CFTC, which asserts exclusive federal jurisdiction over these markets.
+* **Source:** *The Nevada Independent*
+
+*(Note: Also notable during this mid-March period, Kalshi's valuation surged to $22 billion following a $1B funding round led by Coatue Management, and they launched a $1 billion perfect bracket promotion for the 2026 NCAA Tournament backed by Susquehanna International Group).*

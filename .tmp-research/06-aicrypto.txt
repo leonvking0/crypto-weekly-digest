@@ -1,0 +1,25 @@
+Here are the top AI x Crypto developments from the week of March 16–22, 2026, focusing on AI agent tokens, compute networks, and AI-integrated protocols:
+
+### 1. Bittensor (TAO) Achieves Record Decentralized Training & Institutional Milestone
+* **Dates:** March 14–21, 2026
+* **Sector:** AI Protocols / Compute Networks
+* **Details:** Bittensor's Subnet 3 (τemplar) successfully completed the pre-training of **Covenant-72B**, a 72-billion-parameter language model. This stands as the largest decentralized LLM training run on record, utilizing over 70 global contributors running commodity hardware. Furthermore, on March 21, Grayscale filed a Form S-1 with the SEC to convert its Bittensor Trust into a spot Exchange-Traded Product (ETP) on the NYSE Arca (ticker: GTAO), bringing major institutional legitimacy to the network. TAO surged over 56% during the week.
+* **Sources:** CoinMarketCap [1], MEXC [2, 3]
+
+### 2. Akash Network (AKT) Prepares for Deflationary "Burn-Mint Equilibrium" Hard Fork
+* **Dates:** March 16–21, 2026 (Upgrade scheduled for March 23)
+* **Sector:** Compute Networks
+* **Details:** Akash Network dominated the decentralized physical infrastructure network (DePIN) narrative by finalizing preparations for its Burn-Mint Equilibrium (BME) upgrade. The hard fork introduces a permanent burn mechanism for AKT used in compute workloads, making the token supply deflationary and directly tied to network usage, while also adding full WASM smart contract support. The anticipation drove AKT prices up nearly 20% over the week.
+* **Sources:** OurCryptoTalk [6], Identosphere [4], CoinMarketCap [7]
+
+### 3. "Agentic Finance" Infrastructure Expands (MoonPay, Ledger, Pumpfun)
+* **Dates:** March 16–22, 2026
+* **Sector:** AI Agent Tokens / AI-Integrated Protocols
+* **Details:** The infrastructure supporting autonomous AI agents executing on-chain financial tasks expanded rapidly. MoonPay and Ledger announced a partnership to launch the first AI agent secured by a hardware signer, solving major security bottlenecks for autonomous fund management. Additionally, Pumpfun released an automated buyback tool allowing AI agents to use their own protocol revenue to buy and burn their token supply, while KuCoin debuted a modular "Skills Hub" API enabling agents to easily execute swaps and staking.
+* **Sources:** MEXC [2, 9], Identosphere [4]
+
+### 4. Explosive Volatility in Small-Cap AI Agent Tokens & Binance Recognition
+* **Dates:** March 16–22, 2026
+* **Sector:** AI Agent Tokens
+* **Details:** The AI Agent token sub-sector experienced massive retail interest and volatility. Binance highlighted "AI Agents" as its primary theme for the week, pushing the narrative into the mainstream. Micro-cap and emerging agent tokens saw astronomical gains, with QnA3.AI (GPT) rallying over 1,400% and Octavia AI (VIA) gaining 651% as speculators flocked to autonomous agent ecosystems.
+* **Sources:** Bitrue [8], Identosphere [4], MEXC [9]

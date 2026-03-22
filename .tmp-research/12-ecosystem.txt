@@ -1,0 +1,22 @@
+Here are the top crypto ecosystem and infrastructure developments from March 16-22, 2026, focusing on wallets, bridges, oracles, and developer tooling:
+
+**1. Chainlink Oracles Power Amundi's $100M Tokenized Fund**
+*   **Date:** March 20, 2026
+*   **Detail:** Europe's largest asset manager, Amundi, launched a $100M tokenized mutual fund utilizing Chainlink oracles for precise on-chain valuation and cross-chain interoperability. This was followed by near-record inflows into U.S. spot LINK ETFs.
+*   **Source:** CoinMarketCap
+
+**2. Pyth Network Expands Institutional Oracle Infrastructure**
+*   **Date:** March 17 & 19, 2026
+*   **Detail:** Pyth rolled out two major infrastructural updates: the world’s first continuously updating 24/7 crude oil price index (March 17), and Pyth Pro X (March 19), a new institutional market data service delivering real-time cross-asset pricing to major exchanges like Coinbase International, Bitget, and OKX.
+
+**3. Strike Secures Crucial NYDFS Licenses for Payments Infrastructure**
+*   **Date:** March 17, 2026
+*   **Detail:** The Bitcoin-based payments and remittance firm Strike was officially granted a BitLicense and a Money Transmitter License by the New York State Department of Financial Services (NYDFS), significantly expanding its wallet and payment infrastructure to New York residents.
+
+**4. Java 26 Released with Advanced Cryptography Developer Tools**
+*   **Date:** March 17, 2026
+*   **Detail:** Oracle released Java 26, introducing new JDK Enhancement Proposals specifically tailored to assist developers in building and integrating advanced cryptography and AI functionalities into blockchain and enterprise applications. 
+
+**5. Pepeto Releases Major Cross-Chain Bridge Update**
+*   **Date:** March 20, 2026
+*   **Detail:** The Pepeto project deployed a critical update to its cross-chain bridge, which connects Ethereum, BNB Chain, and Solana. The upgrade focused on eliminating gas fees and reducing failed transfer rates for Ethereum traders, pushing its presale past $8.2 million.

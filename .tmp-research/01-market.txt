@@ -1,0 +1,28 @@
+Here is a summary of the most important crypto market overview news and price action for the week of March 16–22, 2026, synthesizing insights from sources including The Block and broader market data.
+
+### **Weekly Market Overview & Price Action**
+The crypto market experienced a "relief rally" early in the week before cooling off due to macroeconomic pressures, massive token unlocks, and geopolitical tensions in the Middle East pushing oil past $100/barrel. The total crypto market cap hovered between **$2.4T and $2.6T**, with the Fear & Greed Index sinking into "Extreme Fear" (10–15). 
+
+*   **Bitcoin (BTC):** BTC started the week testing resistance at **$74,000** on March 16 but faced rejection, pulling back to stabilize at **$68,351** by March 22. It currently holds a market cap of **~$1.4T**. *Key Technicals:* Strong support sits at **$68,000**, with heavy resistance remaining between **$69,500 and $70,000**. Institutional buyers are acquiring BTC at 2.8x the rate of new supply, though ETFs saw a notable $219M outflow on March 19.
+*   **Ethereum (ETH):** ETH opened the week near **$2,300** but slid nearly 10% to trade between **$2,070 and $2,090** by the weekend, bringing its market cap to **$250B**. The asset faced headwinds from rising energy costs and a hawkish Federal Reserve, despite long-term optimism regarding the upcoming "Glamsterdam" network upgrade.
+*   **Solana (SOL):** SOL showed resilience compared to other altcoins, trading steadily at **$87.26** with a market cap of **~$50B**. Its price action was buoyed by heavy institutional inflows, as total assets in Spot Solana ETFs (like BSOL and FSOL) surpassed the $1 billion milestone this week.
+
+---
+
+### **Top Market Developments (March 16 - 22, 2026)**
+
+**1. Landmark SEC & CFTC Joint Regulatory Guidance (March 17, 2026)**
+In a historic move for regulatory clarity, the SEC and CFTC unveiled joint guidance declaring that most digital assets—firmly including Ethereum (ETH)—are digital commodities rather than securities. This move has bolstered institutional confidence despite short-term price stagnation.
+*Source: [The Block](https://www.theblock.co)*
+
+**2. The Federal Reserve Maintains Hawkish Stance (March 18, 2026)**
+The week's primary volatility driver was the Fed's interest rate decision. With US CPI holding at 2.4% and oil prices surging above $100/barrel due to Middle East tensions, the Fed held rates steady. This dashed market hopes for immediate rate cuts and drove the mid-week pullback across BTC and ETH.
+*Source: [CryptoNews / The Block](https://cryptonews.com)*
+
+**3. Massive $438M Token Unlocks Apply Sell Pressure (March 16-22, 2026)**
+Over $438 million in tokens entered circulation this week, creating significant supply dilution and sell-side pressure on altcoins. Major unlocks included ASTER ($55.9M on March 17), LayerZero ($50.3M on March 20), and Lombard ($34.8M on March 18).
+*Source: [Binance / CoinPedia](https://coinpedia.org)*
+
+**4. Corporate Treasuries Expand Bitcoin Holdings (March 16-22, 2026)**
+Corporate accumulation continued at an aggressive pace. Metaplanet raised $255 million specifically to expand its Bitcoin treasury, while crypto exchange Bullish reported its holdings reached 24,400 BTC (valued at ~$1.67B). Additionally, corporate demand for BTC outpaced new miner supply by nearly 3-to-1.
+*Source: [The Block](https://www.theblock.co)*

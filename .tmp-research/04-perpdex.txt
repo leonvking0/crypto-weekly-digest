@@ -1,0 +1,26 @@
+Here are the most important developments in the perpetual DEX and crypto derivatives market for the week of March 16–22, 2026, featuring significant milestones in real-world asset (RWA) trading and structural market share shifts.
+
+### 1. DEXs Capture 20% Global Market Share Amidst Hyperliquid's Multi-Asset Dominance
+A structural shift in the derivatives market has pushed decentralized exchanges to capture nearly **20% of the global perpetual futures market share**. The clear leader is **Hyperliquid**, which hit staggering volume records driven by non-crypto assets. On **March 16**, oil trading on the platform surged, eventually pushing West Texas Intermediate (WTI) perpetuals to a record **$1.77 billion** in 24-hour volume—trailing only Bitcoin in activity. Furthermore, stablecoin liquidity on the HyperEVM chain surpassed the $1 billion milestone. 
+* **Dates:** March 16 (Oil volume surge), March 18 (Coingecko market share report)
+* **Sources:** CoinGecko, Sahm Capital, TradersUnion
+
+### 2. S&P 500 Integration via Trade.xyz (Hyperunit)
+A massive milestone for institutional DeFi occurred on **March 18** when S&P Dow Jones Indices officially licensed the S&P 500 to Hyperliquid via **Trade.xyz** (by Hyperunit). This marks the first time a major traditional equity index has been officially sanctioned for perpetual trading on a DEX. Trade.xyz emerged rapidly as an institutional-grade hybrid platform outlier, pushing localized daily volumes up to $22 billion and dominating Open Interest (OI) in traditional asset formats. 
+* **Date:** March 18, 2026
+* **Sources:** Unchained Crypto, TradersUnion
+
+### 3. dYdX Winds Down Markets and Drops Fees to Compete
+To remain competitive against high-efficiency newcomers and the dominance of Hyperliquid, **dYdX** executed a strategic consolidation. Following a governance vote that finalized leading into this week, dYdX began winding down 16 low-activity perpetual markets (including GALA, THETA, and LUNC) to concentrate liquidity. Around **March 18**, reports indicated a fee reduction down to 50–65 basis points, alongside the ongoing "Surge Season 12" incentives featuring zero maker/taker fees on select assets like BTC and BONK.
+* **Date:** March 13–18, 2026
+* **Sources:** Binance News, DeFi Llama
+
+### 4. GMX Implements Buy Wall and Shows Volume Resilience
+While broader altcoin markets faced a bearish structure with Bitcoin retracing from a $76,000 local high, **GMX** displayed highly resilient fundamentals. Analysts highlighted that GMX’s weekly volume (sustaining over $1 billion) continued to grow against the prevailing altcoin trend. Additionally, the protocol implemented a 1 million GMX "buy wall" at $5 for the **March 18–25** epoch to stabilize and capture value.
+* **Date:** March 18, 2026
+* **Sources:** CoinMarketCap, DeFi Llama
+
+### 5. Solana DEXs (Jupiter) Consolidate Market Power
+Amidst broader market deleveraging, Solana-based perpetual DEXs maintained high capital efficiency. **Jupiter Perps** solidified its dominance, capturing **66% of Solana’s derivatives market share** with $1.77 billion in weekly volume. Its native LP token (JLP) gained further liquidity through new centralized exchange listings during this week, pushing Jupiter's cumulative lifetime volume to a record $467 billion. 
+* **Date:** March 16–22, 2026
+* **Sources:** TradersUnion, DeFi Llama

@@ -1,0 +1,19 @@
+I will search the web for the biggest crypto news stories from the past week (March 16-22, 2026), prioritizing coverage from Messari and The Block to give you specific dates, numbers, and names.
+Based on coverage from major crypto intelligence platforms like The Block and Messari, here are the top 5 most impactful crypto industry events from the past 7 days (March 16–22, 2026):
+
+**1. The "Strait of Hormuz" Flash Crash & $1B Liquidation Event (March 21)**
+After a strong mid-week relief rally pushed Bitcoin to a six-week high of **$76,008**, the market suffered a massive Saturday night flash crash. Triggered by a geopolitical ultimatum issued by President Trump regarding the Strait of Hormuz and a sudden spike in crude oil prices ($110/barrel), BTC plummeted nearly 10% to **$68,241** in hours. The resulting volatility wiped out over **$1 billion in liquidations** across the market within 24 hours (85% being long positions).
+
+**2. SEC & CFTC File Historic Joint Regulatory Guidance (March 20)**
+A massive shift in U.S. crypto regulation occurred as the SEC and CFTC filed new, coordinated joint regulatory guidance, officially replacing the 2019 "Investment Contract" framework. SEC Chair Paul Atkins announced a new taxonomy that classifies the vast majority of crypto assets as "digital commodities" or "collectibles." Messari researchers emphasized this filing as a key catalyst for their 2026 "Systemic Integration" thesis, stemming from the ongoing rollout of the GENIUS Act.
+
+**3. Bhutan’s Sovereign $72 Million Bitcoin Outflow (March 18)**
+**The Block** reported major sovereign on-chain movements after Arkham Intelligence data revealed the Kingdom of Bhutan transferred over **$72 million** in Bitcoin. This marked a notable shift in national-level holdings during a week of heightened macroeconomic tension and shifting Federal Reserve interest rate expectations (with the FOMC holding rates at 3.50–3.75% the same day).
+
+**4. The 20 Millionth Bitcoin Mined & 57% Dominance Milestone (March 16-22)**
+A major psychological milestone for the industry was reached as the **20 millionth Bitcoin** was officially mined. Only 1 million BTC remain to be mined over the next century. Despite intense volatility and a booming altcoin sector driven by AI tokens (like TAO surging 42%), **Messari’s** weekly analysis noted that Bitcoin’s dominance (BTC.D) demonstrated extreme resilience, holding steady at approximately **57%** as institutional buying pressure remained robust.
+
+**5. Massive Nine-Figure Token Unlocks Hit the Market (March 18 & 20)**
+During what analysts are projecting to be the largest month for token unlocks in 2026 ($6B+ total), this specific week saw major supply cliff releases. Notably, **Lombard ($BARD)** unlocked 30 million tokens (worth roughly **$32.4 million**) on March 18, and **LayerZero ($ZRO)** unlocked 25.7 million tokens (worth **$55.5 million**) on March 20 for core contributors and strategic partners, contributing to the week's intense liquidity fluctuations. 
+
+*(Bonus Institutional Highlight: **The Block** also reported on March 18 that Moody’s launched its "Token Integration Engine" to bring institutional-grade credit analysis on-chain via the Canton network, signaling massive traditional finance integration).*

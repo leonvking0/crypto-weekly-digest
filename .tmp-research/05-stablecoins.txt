@@ -1,0 +1,23 @@
+I will search the web for the most important stablecoin news regarding USDT, USDC, USDe, and DAI between March 16 and March 22, 2026.
+I will run a targeted search to check for any specific supply changes or new stablecoin issuers announced precisely between March 16 and March 22, 2026.
+Based on recent developments between **March 16 and March 22, 2026**, here are the top 5 most important stablecoin news items focusing on supply, issuers, and regulations for USDT, USDC, USDe, and DAI:
+
+**1. SEC Clarifies Compliant Stablecoins are Not Securities (March 17, 2026)**
+The SEC and CFTC issued a landmark joint interpretive release stating that "payment stablecoins" issued by permitted entities under the new GENIUS Act fall outside the definition of a security. This effectively ends "regulation by enforcement" for compliant issuers like Circle (USDC), solidifying its position as an institutional-grade asset.
+*Sources: Debevoise, Goodwin Law, DWT*
+
+**2. USDC Surpasses USDT in YTD Transfer Volume (Mid-March 2026)**
+Benefiting heavily from new regulatory clarity, USDC surpassed Tether (USDT) in adjusted transfer volume. By mid-March, USDC processed roughly $2.2 trillion year-to-date compared to USDT's $1.3 trillion. Circle also led 2026 capital flows with a $4.5 billion net supply increase YTD. Overall, the stablecoin market cap reached a new high of $316 billion by March 21, with USDT still holding the dominant supply share ($184.1 billion).
+*Sources: Alphanode Global, MEXC*
+
+**3. Legislative Breakthrough on Stablecoin Yields (March 20, 2026)**
+A tentative agreement was reached between the White House and key Senators regarding the treatment of yield-bearing stablecoins. The compromise aims to allow "activity-based rewards" while restricting pure "passive yield" to prevent capital from fleeing traditional bank deposits.
+*Source: Bitcoin Magazine*
+
+**4. Ethena (USDe) Modifies sUSDe Unstaking as Yields Compress (Implemented mid-March 2026)**
+Ethena implemented a major operational shift, replacing the fixed 7-day cooldown for staked USDe (sUSDe) with a **dynamic 1 to 7-day unstaking period** based on underlying reserve liquidity. Concurrently, due to negative funding rates in perpetual futures markets, USDe yields compressed significantly to approximately 3.49% – 3.72% APY. 
+*Sources: Phemex, CoinStats*
+
+**5. Maker's Sky DAO Slashes Buybacks to Fortify Reserves (Mid-March 2026)**
+Sky DAO (the successor to MakerDAO) slashed its daily token buybacks by 87%—from $300k down to $37.6k. This governance decision was made to prioritize strengthening the reserves backing DAI ($4.57B) and the rapidly growing USDS ($8.25B) amid global macroeconomic uncertainty. DAI is also currently being repositioned as a native currency for autonomous AI agents via the new ERC-8004 standard.
+*Sources: CoinMarketCap, Phemex*

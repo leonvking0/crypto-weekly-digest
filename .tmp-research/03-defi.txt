@@ -1,0 +1,21 @@
+Here are the top DeFi developments from March 16-22, 2026, encompassing governance shifts, major protocol launches, and TVL milestones based on coverage from The Block and other industry sources:
+
+1. **Messari Leadership Restructuring & "AI-First" Pivot (March 16-17)**
+   * **Source:** The Block 
+   * **Details:** In a major organizational shift, Messari CEO Eric Turner stepped down, with CTO Diran Li taking over the helm. The company announced a strategic pivot to an "AI-first" strategy focusing on AI-driven research and data products, accompanied by a new round of layoffs to streamline operations.
+
+2. **Aave v4 and Lido v3 Network Launches (March 22)**
+   * **Source:** Industry Reports / Blockeden
+   * **Details:** Two foundational DeFi protocols rolled out major architectural upgrades. Aave v4 introduced its "Hub and Spoke" architecture to improve capital efficiency, while Lido v3 went live with modular infrastructure designed for customizable yield strategies and institutional "stVaults".
+
+3. **Global DeFi TVL Reclaims $100 Billion amidst Pendle Milestones (March 18)**
+   * **Source:** Market Reports
+   * **Details:** After a period of contraction, Total Value Locked (TVL) across all DeFi protocols successfully crossed back over the $100 billion mark. Concurrently, yield-trading protocol Pendle achieved a historic milestone, reaching $4 billion in TVL and $10 billion in cumulative trading volume. 
+
+4. **Grayscale Files for Hyperliquid (HYPE) ETF (March 20)**
+   * **Source:** The Block
+   * **Details:** Bridging DeFi yield and traditional finance, Grayscale filed for a specialized ETF intended to track HYPE, the native token of Hyperliquid, which reigns as the largest on-chain perpetuals decentralized exchange.
+
+5. **Resolv USR Stablecoin Suffers $25M Exploit (March 22)**
+   * **Source:** The Block
+   * **Details:** The newly launched USR stablecoin faced a critical security failure, leading to a severe depeg. An attacker successfully minted 80 million unbacked tokens, extracting approximately $25 million from the protocol.

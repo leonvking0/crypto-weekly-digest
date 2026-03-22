@@ -1,0 +1,43 @@
+I am searching the web for the most important crypto security incidents that occurred between March 16 and March 22, 2026.
+Based on the latest reports between March 16 and March 22, 2026, here are the most important cryptocurrency security incidents, including hacks, exploits, and related scams, along with their financial impacts, dates, and sources:
+
+### **Major Hacks & Protocol Exploits**
+
+*   **Resolv Labs ($25 Million Exploit)**
+    *   **Date:** March 22, 2026
+    *   **Details:** A critical vulnerability in the USR stablecoin minting process allowed an attacker to convert 200,000 USDC into $25 million worth of USR almost instantly, causing the stablecoin to depeg by 80%. The attacker swapped most of the stolen funds into roughly 11,400 ETH (~$24M).
+    *   **Sources:** U.Today [1], OX Security [2]
+
+*   **Venus Protocol ($3.7 Million Exploit)**
+    *   **Date:** March 16, 2026
+    *   **Details:** The BNB Chain lending platform suffered a sophisticated price manipulation attack targeting the THE (Thena) token. The attacker pumped the token's price from $0.27 to nearly $5 in a thin liquidity pool and borrowed against the inflated collateral, leaving the protocol with approximately $2.15 million in bad debt.
+    *   **Sources:** Cryptonomist [3], OX Security [2]
+
+*   **Solv Protocol ($2.7 Million Breach)**
+    *   **Date:** March 19, 2026
+    *   **Details:** The Bitcoin-based DeFi platform reported a targeted security breach affecting fewer than 10 users, resulting in $2.7 million stolen. The project subsequently offered a bounty for the return of the funds.
+    *   **Sources:** Binance [4], Cybernews [5]
+
+### **Security Breaches & Malware**
+
+*   **Bitrefill Post-Mortem (Lazarus Group)**
+    *   **Date:** March 18, 2026 (Report Released)
+    *   **Details:** Crypto e-commerce platform Bitrefill released a post-mortem for an earlier breach, officially attributing it to North Korea’s Lazarus Group. The hackers compromised an employee's laptop to access production secrets, drain hot wallets, and steal 18,500 user purchase records (emails, IPs, and payment metadata).
+    *   **Sources:** The Record [6], SC Media [7], OX Security [2]
+
+*   **Coruna Exploit Kit (iOS Malware)**
+    *   **Date:** March 19, 2026
+    *   **Details:** Google researchers identified "Coruna," a new exploit kit specifically targeting iPhone users. The malware is designed to directly exfiltrate cryptocurrency wallet seed phrases from compromised Apple devices.
+    *   **Sources:** Binance [4], OX Security [2]
+
+### **Scams & Phishing**
+
+*   **CoinDCX Impersonation Scam ($85,000)**
+    *   **Date:** March 16, 2026
+    *   **Details:** Authorities in India registered a First Information Report (FIR) involving a fraud scheme where scammers impersonated the CoinDCX exchange brand to lure investors into fake schemes, resulting in approximately $85,000 in losses. 
+    *   **Sources:** Bitcoin.com [8], OX Security [2]
+
+*   **OpenClaw Phishing Campaign**
+    *   **Date:** March 18, 2026
+    *   **Details:** Security researchers detected a large-scale active phishing campaign on GitHub abusing the name of the AI project OpenClaw. Attackers tagged developers in fake issue threads, claiming they won $5,000 in "CLAW" tokens to lure them to wallet-draining malicious websites.
+    *   **Sources:** OX Security [2]

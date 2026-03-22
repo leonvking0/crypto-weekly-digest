@@ -1,0 +1,26 @@
+Based on the latest reports and coverage from sources like Messari and The Block during the week of March 16-22, 2026, here are the top Layer 1 and Layer 2 developments:
+
+### 1. Aster Chain (L1) Mainnet Genesis & Public Staking
+*   **Date:** March 17 - March 22, 2026
+*   **Source:** The Block coverage
+*   **Details:** The privacy-focused Layer 1 blockchain, Aster Chain, officially entered its genesis phase on March 17. Built by the team behind Aster DEX, the L1 uses zero-knowledge proofs and stealth addresses to prevent "position hunting" in derivatives trading. The phased rollout culminated with the opening of public staking for $ASTER holders on March 22.
+
+### 2. Linea (L2) Achieves Type-1 zkEVM & Launches "Yield Boost"
+*   **Date:** March 22, 2026
+*   **Source:** Messari / The Block
+*   **Details:** Consensys-backed Linea completed its transition to a Type-1 zkEVM, providing 100% Ethereum compatibility. Concurrently, the network shifted from its "Voyage" points system to the LINEA token and launched "Linea Yield Boost," a feature that allows users to earn automated native yield on bridged ETH via an integration with Lido V3.
+
+### 3. Base Dominates L2 TVL Amid Ecosystem Consolidation
+*   **Date:** March 16, 2026 (Reporting period)
+*   **Source:** Messari
+*   **Details:** The Layer 2 landscape saw significant consolidation, with L2 solutions now handling 98.5% of the Ethereum ecosystem's transaction volume. Base (Coinbase) firmly cemented itself as the leader for consumer applications, capturing an impressive 46% of all L2 DeFi TVL and over 60% of total L2 fee revenue. Meanwhile, Arbitrum maintained its hold on complex DeFi with roughly $17 billion in TVL. 
+
+### 4. Solana "Alpenglow" Upgrade & $1.7B RWA Milestone
+*   **Date:** Mid-to-Late March 2026
+*   **Source:** Messari / The Block
+*   **Details:** Solana entered the final testing stages of its highly anticipated "Alpenglow" consensus upgrade, which replaces Proof-of-History with deterministic slot scheduling to push transaction finality down to 100–150 milliseconds. Alongside the tech upgrade, Solana experienced a massive surge in Real-World Asset (RWA) adoption, with tokenized assets on the chain crossing the $1.7 billion mark.
+
+### 5. Ethereum "Glamsterdam" Upgrade Scope Freeze
+*   **Date:** Late March 2026
+*   **Source:** Messari
+*   **Details:** Following December's "Fusaka" upgrade, Ethereum developers finalized the scope for the upcoming "Glamsterdam" hard fork (targeted for May/June 2026). The primary focus of the upgrade will be Enshrined Proposer-Builder Separation (ePBS) and native account abstraction, aimed at reforming MEV and hardening L1 decentralization.

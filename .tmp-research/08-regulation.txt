@@ -1,0 +1,22 @@
+Here are the most significant crypto regulation and policy developments from March 16–22, 2026, marking a historic shift away from "regulation by enforcement" toward a unified U.S. regulatory framework:
+
+### 1. SEC & CFTC Issue Landmark Joint Interpretive Release (March 17, 2026)
+The SEC and CFTC jointly published a 68-page interpretive release establishing a definitive five-category taxonomy for crypto assets, resolving years of jurisdictional ambiguity. 
+*   **Key Detail:** The agencies explicitly classified 18 major tokens—including Bitcoin, Ethereum, Solana, XRP, and Cardano—as "Digital Commodities" (non-securities). 
+*   **Activity Safe Harbors:** The guidance confirmed that protocol mining, staking, consideration-free airdrops, and 1:1 wrapped tokens do not constitute securities transactions.
+*   **Source:** SEC & CFTC Joint Release Nos. 33-11412; 34-105020 / Fox Rothschild / SWLaw.
+
+### 2. SEC Proposes "Fit-For-Purpose" Safe Harbor for Startups (March 17, 2026)
+In conjunction with the joint release, SEC Chairman Paul Atkins introduced a new "fit-for-purpose startup exemption." 
+*   **Key Detail:** This proposal aims to give crypto entrepreneurs and decentralized projects a grace period to raise capital and build networks without immediately triggering the full scope of public company reporting requirements, provided they meet specific transparency and decentralization milestones.
+*   **Source:** DC Blockchain Summit Announcements / Chapman & Cutler.
+
+### 3. CFTC Issues No-Action Relief for Self-Custody Wallets (March 20, 2026)
+The Commodity Futures Trading Commission issued targeted no-action relief protecting non-custodial software and hardware wallet providers.
+*   **Key Detail:** The relief clarified that providing decentralized storage solutions and self-custody software does not subject developers or providers to traditional financial intermediary or clearinghouse regulations, cementing the legal right to self-custody.
+*   **Source:** CFTC Regulatory Filings / Fintech.tv.
+
+### 4. Coordinated Enforcement Strategy Initiated (March 16-22, 2026)
+Following a Memorandum of Understanding signed earlier in the month, the SEC and CFTC formally began operating under a joint enforcement coordination strategy.
+*   **Key Detail:** The agencies committed to ending duplicative investigations by assigning primary jurisdiction early in the process, aiming to apply a "minimum effective dose" of regulatory intervention.
+*   **Source:** Agency Public Statements / Fox Rothschild.
