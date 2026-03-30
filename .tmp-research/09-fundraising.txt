@@ -1,26 +1,8 @@
-Here are the top 5 most notable crypto fundraising, M&A, and token launch developments from the week of March 16–22, 2026:
+I will search the web for the top crypto fundraising and M&A news from the past week (March 23-29, 2026).
+Here are the most notable crypto fundraising and M&A developments from the week of March 23–29, 2026:
 
-**1. Kalshi Raises $1 Billion in Massive Round** (Venture Raise)
-* **Date:** Week of March 16, 2026
-* **Details:** CFTC-regulated prediction market Kalshi secured a massive $1 billion funding round led by Coatue. This signals intense institutional interest and capital rotation into "event contracts" following favorable regulatory shifts. 
-* **Sources:** Phemex Insights [1]
-
-**2. Cryptio Secures $45 Million Series B** (Venture Raise)
-* **Date:** Week of March 16, 2026
-* **Details:** The enterprise digital asset accounting platform closed its Series B to expand infrastructure tailored for institutional crypto reporting and compliance.
-* **Sources:** Phemex Insights [1]
-
-**3. GSR Acquires Web3 Advisory Firm Architech** (M&A)
-* **Date:** Week of March 16, 2026
-* **Details:** Digital asset trading giant GSR acquired Architech, a Web3 advisory firm. The acquisition is intended to integrate Architech's tokenomics design and liquidity strategy services directly into GSR’s advisory business.
-* **Sources:** Crypto Fundraising Info [3], Phemex Insights [1]
-
-**4. MetaComp's $35 Million Pre-Series A** (Venture Raise)
-* **Date:** Week of March 16, 2026
-* **Details:** The Singapore-based "Web2.5" payment firm completed a round backed by heavyweights Alibaba and Spark Venture. The funds will be used to build out fiat-to-stablecoin rails specifically for Asia-Middle East payment corridors.
-* **Sources:** DLNews [2]
-
-**5. Backpack Exchange ($BP) Prepares for Token Generation Event** (Token Launch)
-* **Date:** Scheduled for March 23, 2026 (Announced week of March 16)
-* **Details:** Backpack, the prominent crypto exchange founded by former FTX/Alameda engineers, finalized preparations for its highly anticipated TGE. Notably, they are introducing a model that allows stakers to potentially convert their tokens into company equity.
-* **Sources:** Phemex Insights [1]
+1. **Polymarket Secures $600M Strategic Investment**: The blockchain-based prediction market raised a massive $600 million round backed by the Intercontinental Exchange (ICE), marking a major endorsement from traditional finance infrastructure.
+2. **BVNK Raises $1.8B led by Mastercard**: In one of the largest fintech-crypto integrations of the year, crypto payments provider BVNK secured $1.8 billion in an M&A-style funding round spearheaded by Mastercard.
+3. **DV8 Acquires Rakkar Digital**: Thai public company DV8 acquired the crypto custodian Rakkar Digital for an undisclosed amount, signaling DV8's pivot into becoming a Bitcoin treasury-focused firm.
+4. **IDEX Acquired by Katana**: The decentralized exchange IDEX was acquired by Katana (a blockchain incubated by Polygon Labs) to facilitate the launch of its new perpetual futures platform, Katana Perps.
+5. **Core Scientific Secures $1B Credit Facility**: While strictly debt rather than venture equity, the crypto mining and AI infrastructure provider secured $1 billion from JPMorgan Chase and Morgan Stanley to fund its expansion into AI chip development.

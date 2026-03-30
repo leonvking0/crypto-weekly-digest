@@ -1,18 +1,126 @@
-Based on recent search results, here are the most important prediction market developments for the week of March 16–22, 2026, characterized by major commercial milestones and a significant regulatory crackdown by state authorities:
+I will search the web for the most important crypto prediction market news from March 23-29, 2026, focusing on Polymarket, trading volume, and new markets.
+Attempt 1 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 2 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 3 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 4 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 5 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 6 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 7 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 8 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Here are the top prediction market and Polymarket developments from the week of March 23–29, 2026, based on the latest reports:
 
-### 1. Arizona Files Criminal Charges Against Kalshi (March 17, 2026)
-In a major escalation of state-level regulatory pushback, the Arizona Attorney General filed 20 criminal misdemeanor counts against Kalshi. The state alleges that Kalshi operated an unlicensed gambling business by offering markets on sports and local elections, marking the first time a state has pursued criminal enforcement against the platform. 
-* **Sources:** *InvestmentNews, Dentons*
+### 1. New Bipartisan Legislation on Insider Trading (March 25–26, 2026)
+Two major legislative bills were introduced to regulate government officials trading on prediction markets. The **PREDICT Act** was introduced on March 25, followed by the **Public Integrity in Financial Prediction Markets Act** on March 26. These bills are designed to explicitly prohibit government officials from using non-public information to place trades on platforms like Polymarket.
+* **Source:** CryptoNews [8]
 
-### 2. Argentina Blocks Polymarket Nationwide (March 18, 2026)
-An Argentinian judge ordered a nationwide block on Polymarket. This judicial order marks the first comprehensive restriction of the prediction market platform within Latin America.
+### 2. Polymarket Updates Terms of Service (March 23, 2026)
+In anticipation of the aforementioned federal oversight, both Polymarket and Kalshi proactively updated their internal terms of service on March 23. The new rules explicitly ban traders from utilizing confidential or non-public information to participate in prediction markets.
+* **Source:** CryptoNews [8]
 
-### 3. Polymarket Secures Exclusive Partnership with MLB (March 19, 2026)
-In a historic commercial expansion, Major League Baseball (MLB) named Polymarket its exclusive prediction market exchange partner. The multi-year deal, reportedly valued at $150 million, includes a strict "integrity framework" designed to restrict highly granular and high-risk betting markets, such as individual pitches or umpire performance.
-* **Sources:** *MLB.com, iGaming Business, SportsPro*
+### 3. Record-Breaking Volume Reaches $9.7 Billion (March 2026)
+Polymarket's sustained growth culminated in a massive **$9.7 billion 30-day trading volume** by mid-to-late March. Weekly volumes consistently stayed above the **$2.5 billion** mark—more than double the activity seen during the peak of the 2024 U.S. elections. The active user base also tripled over the last six months to hit roughly 840,000 active participants.
+* **Sources:** QuantVPS [1], TRM Labs [2]
 
-### 4. Nevada Halts Kalshi Operations via Restraining Order (March 20, 2026)
-Following a ruling by the Ninth Circuit that allowed the state to proceed with its case, a Nevada judge issued a 14-day temporary restraining order halting all of Kalshi’s operations within the state. This adds to the ongoing "jurisdictional war" between state authorities and the CFTC, which asserts exclusive federal jurisdiction over these markets.
-* **Source:** *The Nevada Independent*
+### 4. Direct CFTC Integration for Polymarket US (March 2026)
+In a major regulatory milestone, **Polymarket US (QCX LLC)** successfully self-certified new market rules with the Commodity Futures Trading Commission (CFTC). This represents the first time an on-chain prediction market has achieved direct integration into the U.S. regulatory framework.
+* **Source:** MetaMask / QCX [7]
 
-*(Note: Also notable during this mid-March period, Kalshi's valuation surged to $22 billion following a $1B funding round led by Coatue Management, and they launched a $1 billion perfect bracket promotion for the 2026 NCAA Tournament backed by Susquehanna International Group).*
+### 5. High-Stakes Geopolitical & Sports Markets Dominate (March 2026)
+Traders drove massive liquidity into emerging geopolitical and sports markets throughout the month. A prominent market forecasting whether Israel would launch a ground offensive in Lebanon by March 31 amassed over **$63 million** in trading volume. Additionally, NCAA "March Madness" markets saw tremendous engagement, with the "Tournament Winner" pool reaching **$23 million** in volume. 
+* **Sources:** TRM Labs [2], Polymarket [4]

@@ -1,22 +1,33 @@
-Here are the most significant crypto regulation and policy developments from March 16–22, 2026, marking a historic shift away from "regulation by enforcement" toward a unified U.S. regulatory framework:
+I will search the web for the top crypto regulation and policy news for the week of March 23-29, 2026.
+Attempt 1 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Here are the top crypto regulation and policy developments from the week of March 23-29, 2026:
 
-### 1. SEC & CFTC Issue Landmark Joint Interpretive Release (March 17, 2026)
-The SEC and CFTC jointly published a 68-page interpretive release establishing a definitive five-category taxonomy for crypto assets, resolving years of jurisdictional ambiguity. 
-*   **Key Detail:** The agencies explicitly classified 18 major tokens—including Bitcoin, Ethereum, Solana, XRP, and Cardano—as "Digital Commodities" (non-securities). 
-*   **Activity Safe Harbors:** The guidance confirmed that protocol mining, staking, consideration-free airdrops, and 1:1 wrapped tokens do not constitute securities transactions.
-*   **Source:** SEC & CFTC Joint Release Nos. 33-11412; 34-105020 / Fox Rothschild / SWLaw.
+### 1. The SEC & CFTC Issue Joint "Watershed" Crypto Guidance
+While officially released on March 17, the **"Application of the Federal Securities Laws to Crypto Assets"** interpretive release dominated legal analysis and market sentiment throughout this week. The agencies established a clear five-category taxonomy for digital assets:
+*   **Digital Commodities** (e.g., BTC), regulated by the CFTC.
+*   **Payment Stablecoins**, regulated under the newly enacted GENIUS Act.
+*   **Digital Collectibles** (NFTs) and **Digital Tools** (utility tokens), which generally fall outside securities laws.
+*   **Digital Securities**, which explicitly meet the *Howey* test.
 
-### 2. SEC Proposes "Fit-For-Purpose" Safe Harbor for Startups (March 17, 2026)
-In conjunction with the joint release, SEC Chairman Paul Atkins introduced a new "fit-for-purpose startup exemption." 
-*   **Key Detail:** This proposal aims to give crypto entrepreneurs and decentralized projects a grace period to raise capital and build networks without immediately triggering the full scope of public company reporting requirements, provided they meet specific transparency and decentralization milestones.
-*   **Source:** DC Blockchain Summit Announcements / Chapman & Cutler.
+Notably, SEC Chairman Paul Atkins formally acknowledged that "most crypto assets are not themselves securities," signaling a definitive end to the "regulation by enforcement" era. The guidance also created explicit safe harbors for protocol-level mining, staking, and no-consideration airdrops.
 
-### 3. CFTC Issues No-Action Relief for Self-Custody Wallets (March 20, 2026)
-The Commodity Futures Trading Commission issued targeted no-action relief protecting non-custodial software and hardware wallet providers.
-*   **Key Detail:** The relief clarified that providing decentralized storage solutions and self-custody software does not subject developers or providers to traditional financial intermediary or clearinghouse regulations, cementing the legal right to self-custody.
-*   **Source:** CFTC Regulatory Filings / Fintech.tv.
+### 2. Bipartisan Breakthrough on the "CLARITY Act"
+On March 20, Senators Thom Tillis and Angela Alsobrooks announced an "agreement in principle" with the White House regarding the **Digital Asset Market Clarity (CLARITY) Act**. This legislation specifically addresses the controversial regulatory treatment of stablecoin yield, aiming to allow regulated yield-bearing crypto products while instituting guardrails to protect traditional bank deposits. Despite the breakthrough, analysts noted lingering "legal gridlock" in the Senate as a short-term hurdle.
 
-### 4. Coordinated Enforcement Strategy Initiated (March 16-22, 2026)
-Following a Memorandum of Understanding signed earlier in the month, the SEC and CFTC formally began operating under a joint enforcement coordination strategy.
-*   **Key Detail:** The agencies committed to ending duplicative investigations by assigning primary jurisdiction early in the process, aiming to apply a "minimum effective dose" of regulatory intervention.
-*   **Source:** Agency Public Statements / Fox Rothschild.
+### 3. Progress on Stablecoin Regulation (The GENIUS Act)
+Regulators pushed forward with the implementation of the **Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act**. On March 24, the Treasury Department issued new licensing guidelines specifically tailored for non-bank stablecoin issuers. On the same day, Delaware introduced bipartisan state-level legislation to create a stablecoin licensing regime mirroring the GENIUS Act's federal definitions. 
+
+### 4. SEC Approves TradFi Tokenization Initiatives
+Significant traditional finance (TradFi) integration took place under explicit SEC approval. Nasdaq secured a rule change to enable the trading of tokenized securities as part of a DTC pilot program. Concurrently, on March 24, the New York Stock Exchange (NYSE) announced a partnership with Securitize to launch a **Digital Trading Platform**, enabling 24/7 trading and on-chain stablecoin settlement for tokenized U.S. equities and ETFs.

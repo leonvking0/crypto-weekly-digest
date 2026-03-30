@@ -1,22 +1,26 @@
-Here are the top crypto ecosystem and infrastructure developments from March 16-22, 2026, focusing on wallets, bridges, oracles, and developer tooling:
+I will search the web for the top crypto ecosystem and infrastructure news, specifically focusing on wallets, bridges, and oracles for the dates of March 23-29, 2026.
+Attempt 1 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Here are the top crypto ecosystem and infrastructure news stories for the week of March 23–29, 2026, focusing on wallets, bridges, and oracles:
 
-**1. Chainlink Oracles Power Amundi's $100M Tokenized Fund**
-*   **Date:** March 20, 2026
-*   **Detail:** Europe's largest asset manager, Amundi, launched a $100M tokenized mutual fund utilizing Chainlink oracles for precise on-chain valuation and cross-chain interoperability. This was followed by near-record inflows into U.S. spot LINK ETFs.
-*   **Source:** CoinMarketCap
+### 1. Wallets: AI Integration & Regulatory Clarity
+*   **Trust Wallet's "Agent Kit" (March 26):** Trust Wallet introduced a new infrastructure kit that allows AI agents to securely execute on-chain transactions across more than 25 blockchains. This enables "agentic" portfolio management while strictly adhering to user-defined permission boundaries.
+*   **Self-Custody Regulatory Win:** The CFTC issued a "no-action" letter to Phantom Wallet, officially clarifying that developers of self-custodial wallets do not need to register as brokers—a significant regulatory win for decentralized wallet infrastructure.
 
-**2. Pyth Network Expands Institutional Oracle Infrastructure**
-*   **Date:** March 17 & 19, 2026
-*   **Detail:** Pyth rolled out two major infrastructural updates: the world’s first continuously updating 24/7 crude oil price index (March 17), and Pyth Pro X (March 19), a new institutional market data service delivering real-time cross-asset pricing to major exchanges like Coinbase International, Bitget, and OKX.
+### 2. Bridges: Institutional Adoption via LayerZero
+*   **LayerZero Integrates with Canton Network (March 27):** LayerZero became the first interoperability protocol to launch on the Canton Network (a privacy-enabled blockchain backed by major institutions like Goldman Sachs and Microsoft). This creates a bridge allowing regulated entities to move tokenized assets between private banking rails and over 165 public blockchains. 
 
-**3. Strike Secures Crucial NYDFS Licenses for Payments Infrastructure**
-*   **Date:** March 17, 2026
-*   **Detail:** The Bitcoin-based payments and remittance firm Strike was officially granted a BitLicense and a Money Transmitter License by the New York State Department of Financial Services (NYDFS), significantly expanding its wallet and payment infrastructure to New York residents.
-
-**4. Java 26 Released with Advanced Cryptography Developer Tools**
-*   **Date:** March 17, 2026
-*   **Detail:** Oracle released Java 26, introducing new JDK Enhancement Proposals specifically tailored to assist developers in building and integrating advanced cryptography and AI functionalities into blockchain and enterprise applications. 
-
-**5. Pepeto Releases Major Cross-Chain Bridge Update**
-*   **Date:** March 20, 2026
-*   **Detail:** The Pepeto project deployed a critical update to its cross-chain bridge, which connects Ethereum, BNB Chain, and Solana. The upgrade focused on eliminating gas fees and reducing failed transfer rates for Ethereum traders, pushing its presale past $8.2 million.
+### 3. Oracles: TradFi Settlements & Premium Data
+*   **Chainlink CCIP TradFi Trials (March 29):** Reports emerged that major financial institutions, including JPMorgan and UBS, are running live settlement trials utilizing Chainlink’s Cross-Chain Interoperability Protocol (CCIP). The goal is to migrate portions of the massive $150 trillion annual SWIFT messaging volume onto distributed ledger technology.
+*   **Coinbase "DataLink" Powered by Chainlink (March 25):** Coinbase integrated Chainlink to launch DataLink, a service that brings premium centralized exchange data—such as live order books and perpetual futures pricing—directly on-chain to power institutional-grade DeFi applications.

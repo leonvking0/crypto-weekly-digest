@@ -1,43 +1,31 @@
-I am searching the web for the most important crypto security incidents that occurred between March 16 and March 22, 2026.
-Based on the latest reports between March 16 and March 22, 2026, here are the most important cryptocurrency security incidents, including hacks, exploits, and related scams, along with their financial impacts, dates, and sources:
+Here are the most important crypto security incidents, hacks, and exploits that occurred during the week of **March 23–29, 2026**:
 
-### **Major Hacks & Protocol Exploits**
+### Major Hacks & Exploits
 
-*   **Resolv Labs ($25 Million Exploit)**
-    *   **Date:** March 22, 2026
-    *   **Details:** A critical vulnerability in the USR stablecoin minting process allowed an attacker to convert 200,000 USDC into $25 million worth of USR almost instantly, causing the stablecoin to depeg by 80%. The attacker swapped most of the stolen funds into roughly 11,400 ETH (~$24M).
-    *   **Sources:** U.Today [1], OX Security [2]
+**1. Iranian Cryptocurrency Exchange Hack**
+*   **Date Reported:** March 27, 2026
+*   **Estimated Loss:** ~$90 Million
+*   **Details:** Hackers drained approximately $90 million from the largest cryptocurrency exchange in Iran. Security analysts strongly suspect this massive breach was tied to escalating geopolitical tensions and state-sponsored activity in the region. 
 
-*   **Venus Protocol ($3.7 Million Exploit)**
-    *   **Date:** March 16, 2026
-    *   **Details:** The BNB Chain lending platform suffered a sophisticated price manipulation attack targeting the THE (Thena) token. The attacker pumped the token's price from $0.27 to nearly $5 in a thin liquidity pool and borrowed against the inflated collateral, leaving the protocol with approximately $2.15 million in bad debt.
-    *   **Sources:** Cryptonomist [3], OX Security [2]
+**2. Resolv Labs (USR Stablecoin) Exploit**
+*   **Date:** March 22–24, 2026
+*   **Estimated Loss:** ~$25 Million
+*   **Details:** Attackers compromised a privileged private key stored in Resolv's AWS Key Management Service (KMS). This allowed them to mint 80 million unbacked USR stablecoin tokens with only $200,000 in collateral. The attacker swapped the minted tokens for roughly 11,400 ETH, effectively stealing $25 million and causing the USR stablecoin to de-peg and crash to $0.025. By March 26, the team successfully blacklisted/burned 46 million USR to mitigate further damage.
 
-*   **Solv Protocol ($2.7 Million Breach)**
-    *   **Date:** March 19, 2026
-    *   **Details:** The Bitcoin-based DeFi platform reported a targeted security breach affecting fewer than 10 users, resulting in $2.7 million stolen. The project subsequently offered a bounty for the return of the funds.
-    *   **Sources:** Binance [4], Cybernews [5]
+**3. Infiniti Stealer & GhostClaw Malware Campaigns**
+*   **Date:** March 28–29, 2026
+*   **Estimated Loss:** Undisclosed (Ongoing Wallet Drains)
+*   **Details:** Cybersecurity researchers identified two new severe threats targeting crypto users and developers. "Infiniti Stealer" targeted macOS users via fake Cloudflare CAPTCHA pages to instantly drain browser wallets. Concurrently, "GhostClaw" malware was found hidden within malicious `npm` packages, designed to hunt and steal developers' private keys.
 
-### **Security Breaches & Malware**
+**4. Fake Stablecoin Proliferation**
+*   **Date Reported:** March 27, 2026
+*   **Details:** Security firm Blockaid reported a massive spike in phishing infrastructure, revealing that over 54,000 fake stablecoins (mostly mimicking USDT and USDC) had been deployed to trick users into signing malicious approvals and draining their wallets. 
 
-*   **Bitrefill Post-Mortem (Lazarus Group)**
-    *   **Date:** March 18, 2026 (Report Released)
-    *   **Details:** Crypto e-commerce platform Bitrefill released a post-mortem for an earlier breach, officially attributing it to North Korea’s Lazarus Group. The hackers compromised an employee's laptop to access production secrets, drain hot wallets, and steal 18,500 user purchase records (emails, IPs, and payment metadata).
-    *   **Sources:** The Record [6], SC Media [7], OX Security [2]
+---
 
-*   **Coruna Exploit Kit (iOS Malware)**
-    *   **Date:** March 19, 2026
-    *   **Details:** Google researchers identified "Coruna," a new exploit kit specifically targeting iPhone users. The malware is designed to directly exfiltrate cryptocurrency wallet seed phrases from compromised Apple devices.
-    *   **Sources:** Binance [4], OX Security [2]
+### Legacy Hack Developments & Fallout
 
-### **Scams & Phishing**
+While the initial breaches didn't happen this week, significant corporate and financial fallout related to massive historical hacks occurred:
 
-*   **CoinDCX Impersonation Scam ($85,000)**
-    *   **Date:** March 16, 2026
-    *   **Details:** Authorities in India registered a First Information Report (FIR) involving a fraud scheme where scammers impersonated the CoinDCX exchange brand to lure investors into fake schemes, resulting in approximately $85,000 in losses. 
-    *   **Sources:** Bitcoin.com [8], OX Security [2]
-
-*   **OpenClaw Phishing Campaign**
-    *   **Date:** March 18, 2026
-    *   **Details:** Security researchers detected a large-scale active phishing campaign on GitHub abusing the name of the AI project OpenClaw. Attackers tagged developers in fake issue threads, claiming they won $5,000 in "CLAW" tokens to lure them to wallet-draining malicious websites.
-    *   **Sources:** OX Security [2]
+*   **Balancer Labs Shutdown ($128 Million Fallout):** On March 23–24, Balancer Labs announced it was winding down its corporate entity entirely. The shutdown was attributed to the "unbearable legal liability" and loss of revenue stemming from their massive $128 million protocol exploit in November 2025. (The protocol remains functional under a DAO).
+*   **Bo Shen Bounty ($42 Million Recovery Effort):** On March 26, Fenbushi Capital founder Bo Shen publicly offered a 10–20% bounty for information leading to the recovery of $42 million stolen from his personal wallet in 2022, following new breakthroughs in tracking the stolen funds.

@@ -1,23 +1,29 @@
-I will search the web for the most important stablecoin news regarding USDT, USDC, USDe, and DAI between March 16 and March 22, 2026.
-I will run a targeted search to check for any specific supply changes or new stablecoin issuers announced precisely between March 16 and March 22, 2026.
-Based on recent developments between **March 16 and March 22, 2026**, here are the top 5 most important stablecoin news items focusing on supply, issuers, and regulations for USDT, USDC, USDe, and DAI:
+Attempt 1 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Here are the most important stablecoin news items for the week of March 23-29, 2026, focusing on insights from The Block and Messari, as well as major developments for USDT and USDC:
 
-**1. SEC Clarifies Compliant Stablecoins are Not Securities (March 17, 2026)**
-The SEC and CFTC issued a landmark joint interpretive release stating that "payment stablecoins" issued by permitted entities under the new GENIUS Act fall outside the definition of a security. This effectively ends "regulation by enforcement" for compliant issuers like Circle (USDC), solidifying its position as an institutional-grade asset.
-*Sources: Debevoise, Goodwin Law, DWT*
+1. **Tether (USDT) Engages KPMG for its First Full Audit**
+According to reporting highlighted by *The Block*, Tether has made a historic move by hiring "Big Four" accounting firm KPMG to conduct its first-ever full independent financial statement audit, moving away from its previous "point-in-time" attestations by BDO Italia. PwC was also reportedly brought in to help prepare Tether's internal systems for the rigorous scrutiny. USDT remains dominant with a massive $184 billion market cap, though its liquidity growth flattened this week. 
 
-**2. USDC Surpasses USDT in YTD Transfer Volume (Mid-March 2026)**
-Benefiting heavily from new regulatory clarity, USDC surpassed Tether (USDT) in adjusted transfer volume. By mid-March, USDC processed roughly $2.2 trillion year-to-date compared to USDT's $1.3 trillion. Circle also led 2026 capital flows with a $4.5 billion net supply increase YTD. Overall, the stablecoin market cap reached a new high of $316 billion by March 21, with USDT still holding the dominant supply share ($184.1 billion).
-*Sources: Alphanode Global, MEXC*
+2. **Messari Predicts "Yield-Bearing" Shift in "Crypto Theses 2026"**
+*Messari's* latest research reports emphasize a massive structural transition in the stablecoin market. According to Messari, stablecoins are shifting from "passive settlement tools" to "active yield-generating instruments." The firm predicts that yield-bearing stablecoins will rapidly erode the market share of traditional, non-yielding assets like standard USDC and USDT as institutional players demand a "risk-free" ~5% return on-chain.
 
-**3. Legislative Breakthrough on Stablecoin Yields (March 20, 2026)**
-A tentative agreement was reached between the White House and key Senators regarding the treatment of yield-bearing stablecoins. The compromise aims to allow "activity-based rewards" while restricting pure "passive yield" to prevent capital from fleeing traditional bank deposits.
-*Source: Bitcoin Magazine*
+3. **Regulatory Impasse: The Block Reports on the Stalled "Clarity Act"**
+*The Block* has been closely tracking the legislative gridlock in Washington regarding the "Clarity Act." The legislation has stalled primarily over how to treat stablecoin rewards and yield generation. This regulatory uncertainty caused Circle's stock (CRCL) to drop mid-month. Meanwhile, lawmakers are also debating the "GENIUS Act," which seeks to integrate stablecoins more formally into the U.S. monetary framework.
 
-**4. Ethena (USDe) Modifies sUSDe Unstaking as Yields Compress (Implemented mid-March 2026)**
-Ethena implemented a major operational shift, replacing the fixed 7-day cooldown for staked USDe (sUSDe) with a **dynamic 1 to 7-day unstaking period** based on underlying reserve liquidity. Concurrently, due to negative funding rates in perpetual futures markets, USDe yields compressed significantly to approximately 3.49% – 3.72% APY. 
-*Sources: Phemex, CoinStats*
+4. **Circle (USDC) Expands to Consumer Mortgages**
+In a major utility milestone, Circle announced a partnership with Coinbase and Better Home & Finance to allow USDC to be used as collateral for U.S. home loans backed by Fannie Mae. This marks a significant integration of stablecoins into core traditional consumer finance. 
 
-**5. Maker's Sky DAO Slashes Buybacks to Fortify Reserves (Mid-March 2026)**
-Sky DAO (the successor to MakerDAO) slashed its daily token buybacks by 87%—from $300k down to $37.6k. This governance decision was made to prioritize strengthening the reserves backing DAI ($4.57B) and the rapidly growing USDS ($8.25B) amid global macroeconomic uncertainty. DAI is also currently being repositioned as a native currency for autonomous AI agents via the new ERC-8004 standard.
-*Sources: CoinMarketCap, Phemex*
+5. **USDC Supply Contraction and Wallet Freeze Controversy**
+It was a turbulent week for USDC's supply and PR. USDC saw a net reduction of $1.1 billion in circulation over the last week of March. Additionally, on March 23, Circle controversially froze 16 business hot wallets (linked to exchanges and forex platforms) due to a sealed U.S. civil lawsuit. Facing intense community backlash, Circle began unfreezing several of the wallets by March 26. Despite this, early March data showed USDC briefly flipping USDT in adjusted transaction volume for the first time since early 2026.

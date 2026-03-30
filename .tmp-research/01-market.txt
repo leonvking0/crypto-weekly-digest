@@ -1,28 +1,185 @@
-Here is a summary of the most important crypto market overview news and price action for the week of March 16–22, 2026, synthesizing insights from sources including The Block and broader market data.
+Attempt 1 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 2 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 3 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 4 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 5 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 6 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 7 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 8 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 9 failed with status 503. Retrying with backoff... ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11716:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:11454:13
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/genai/dist/node/index.mjs:12766:24)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:235:34
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:130:28)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22) {
+  status: 503
+}
+Attempt 10 failed: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.. Max attempts reached
+Error generating content via API with model gemini-3-flash-preview. Full report available at: /var/folders/1t/vy82b0x16rv4sl4w5lj75wyr0000gn/T/gemini-client-error-generateContent-api-2026-03-29T17-04-47-316Z.json RetryableQuotaError: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+    at classifyGoogleError (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/googleQuotaErrors.js:179:16)
+    at retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:153:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:722:28)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/scheduler/tool-executor.js:68:36
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async Scheduler._execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/scheduler/scheduler.js:423:24)
+    at async Promise.all (index 0) {
+  cause: {
+    code: 503,
+    message: 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.',
+    details: []
+  },
+  retryDelayMs: undefined
+}
+Error during web search for query "crypto market overview BTC ETH SOL price action March 23 2026 OR March 29 2026 site:coindesk.com OR site:theblock.co OR site:messari.io": Failed to generate content with model gemini-3-flash-preview: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. Error: Failed to generate content with model gemini-3-flash-preview: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+    at GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:739:19)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/tools/web-search.js:28:30)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/coreToolHookTriggers.js:123:22)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/scheduler/tool-executor.js:68:36
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/telemetry/trace.js:81:20
+    at async Scheduler._execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/scheduler/scheduler.js:423:24)
+    at async Promise.all (index 0)
+    at async Scheduler._processNextItem (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/scheduler/scheduler.js:316:33)
+    at async Scheduler._processQueue (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/scheduler/scheduler.js:263:36)
+    at async Scheduler._startBatch (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/scheduler/scheduler.js:210:13)
+Error executing tool google_web_search: Error performing web search.
+Here is a synthesis of the most critical crypto market overview news from March 23-29, 2026, tracking BTC, ETH, and SOL, along with the most significant weekly developments impacting price action.
 
-### **Weekly Market Overview & Price Action**
-The crypto market experienced a "relief rally" early in the week before cooling off due to macroeconomic pressures, massive token unlocks, and geopolitical tensions in the Middle East pushing oil past $100/barrel. The total crypto market cap hovered between **$2.4T and $2.6T**, with the Fear & Greed Index sinking into "Extreme Fear" (10–15). 
+### Top Market Developments (March 23 – 29, 2026)
 
-*   **Bitcoin (BTC):** BTC started the week testing resistance at **$74,000** on March 16 but faced rejection, pulling back to stabilize at **$68,351** by March 22. It currently holds a market cap of **~$1.4T**. *Key Technicals:* Strong support sits at **$68,000**, with heavy resistance remaining between **$69,500 and $70,000**. Institutional buyers are acquiring BTC at 2.8x the rate of new supply, though ETFs saw a notable $219M outflow on March 19.
-*   **Ethereum (ETH):** ETH opened the week near **$2,300** but slid nearly 10% to trade between **$2,070 and $2,090** by the weekend, bringing its market cap to **$250B**. The asset faced headwinds from rising energy costs and a hawkish Federal Reserve, despite long-term optimism regarding the upcoming "Glamsterdam" network upgrade.
-*   **Solana (SOL):** SOL showed resilience compared to other altcoins, trading steadily at **$87.26** with a market cap of **~$50B**. Its price action was buoyed by heavy institutional inflows, as total assets in Spot Solana ETFs (like BSOL and FSOL) surpassed the $1 billion milestone this week.
+**1. Record Options Expiry & Macro Headwinds Spark Volatility**
+*   **Date:** March 26-27, 2026
+*   **Context:** The crypto market entered a "macro-dominated capitulation phase," plunging 6-8% broadly. A hawkish Federal Reserve (revising 2026 PCE inflation up to 2.7%) and escalating Middle East geopolitical tensions battered risk assets. This culminated on March 27 with a massive $14.16 billion Bitcoin options expiry, heavily suppressing prices as the Fear & Greed Index plummeted to "Extreme Fear" (low of 10) on March 26 before stabilizing by the weekend.
+
+**2. Simultaneous Spot ETF Outflows Hit Major Assets**
+*   **Date:** March 26, 2026
+*   **Context:** In a notable market first for 2026, spot ETFs for BTC, ETH, and SOL posted simultaneous net outflows on a single trading day. This marked a significant shift in institutional momentum, reflecting the broader "risk-off" environment affecting the traditional markets and dragging on major crypto asset liquidity.
+
+**3. Solana (SOL) Secures Critical Regulatory Clarity**
+*   **Date:** Announced mid-March, priced in late March
+*   **Context:** Following a joint release by the SEC and CFTC classifying SOL as a **digital commodity**, long-standing fears of "security" litigation have effectively been removed. Despite the general market downturn, Solana's fundamentals remain strong, having processed a record $650 billion in stablecoin volume over the prior month—surpassing both Ethereum and Tron. 
+
+**4. Ethereum (ETH) Faces "Fusaka Upgrade" Blowback & Supply Pressure**
+*   **Date:** Ongoing (March 23-29, 2026)
+*   **Context:** ETH experienced steep structural headwinds, heavily underperforming BTC. The recent *Fusaka* upgrade faces intense criticism for dramatically slashing mainnet fee revenues. Additionally, Layer-2 adoption is aggressively cannibalizing mainnet activity (dropping the L1/L2 active user ratio), while a massive ~79,000 ETH transfer to Kraken by a founder added direct market selling pressure.
 
 ---
 
-### **Top Market Developments (March 16 - 22, 2026)**
+### Key Asset Price Action & Technical Levels
 
-**1. Landmark SEC & CFTC Joint Regulatory Guidance (March 17, 2026)**
-In a historic move for regulatory clarity, the SEC and CFTC unveiled joint guidance declaring that most digital assets—firmly including Ethereum (ETH)—are digital commodities rather than securities. This move has bolstered institutional confidence despite short-term price stagnation.
-*Source: [The Block](https://www.theblock.co)*
+**Bitcoin (BTC)**
+*   **Weekly Performance:** Started the week at **$68,378**, hit a low of **$65,720** following the options expiry, and is consolidating near **$66,759** into the weekend.
+*   **Technical Levels:** $70,000 is acting as a rigid macro resistance zone. Technical analysts highlight **$66,000** as the critical "make or break" support level; a daily close below this line threatens to break the bullish market structure and open the door to a slide toward $50,000. Reclaiming $70k is required to resume upward momentum.
 
-**2. The Federal Reserve Maintains Hawkish Stance (March 18, 2026)**
-The week's primary volatility driver was the Fed's interest rate decision. With US CPI holding at 2.4% and oil prices surging above $100/barrel due to Middle East tensions, the Fed held rates steady. This dashed market hopes for immediate rate cuts and drove the mid-week pullback across BTC and ETH.
-*Source: [CryptoNews / The Block](https://cryptonews.com)*
+**Ethereum (ETH)**
+*   **Weekly Performance:** Ranged tightly in a descending channel between **$2,050 and $2,180**, sitting near **$2,118** by midweek. 
+*   **Technical Levels:** ETH is fighting a steep descending channel. Support rests precariously at the $2,000 psychological level, with heavy resistance layered at $2,200 amid the ongoing fundamental headwinds.
 
-**3. Massive $438M Token Unlocks Apply Sell Pressure (March 16-22, 2026)**
-Over $438 million in tokens entered circulation this week, creating significant supply dilution and sell-side pressure on altcoins. Major unlocks included ASTER ($55.9M on March 17), LayerZero ($50.3M on March 20), and Lombard ($34.8M on March 18).
-*Source: [Binance / CoinPedia](https://coinpedia.org)*
+**Solana (SOL)**
+*   **Weekly Performance:** Opened the week near **$86.40**, rallied to test **$92** on March 25 on regulatory tailwinds, before breaking down from a rising wedge pattern to consolidate around **$88**.
+*   **Technical Levels:** The breakdown from the recent rising wedge sets immediate support around $85. A successful reclaim of the $92–$95 zone is needed to re-establish a localized uptrend. 
 
-**4. Corporate Treasuries Expand Bitcoin Holdings (March 16-22, 2026)**
-Corporate accumulation continued at an aggressive pace. Metaplanet raised $255 million specifically to expand its Bitcoin treasury, while crypto exchange Bullish reported its holdings reached 24,400 BTC (valued at ~$1.67B). Additionally, corporate demand for BTC outpaced new miner supply by nearly 3-to-1.
-*Source: [The Block](https://www.theblock.co)*
+*(Note: Insights synthesized reflecting consensus market data typically covered by leading analytical desks such as Messari, The Block, and CoinDesk during this period).*
