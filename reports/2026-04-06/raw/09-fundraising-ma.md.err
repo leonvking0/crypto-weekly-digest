@@ -1,0 +1,17 @@
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+Attempt 1 failed with status 503. Retrying with backoff... _ApiError: {"error":{"code":503,"message":"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.","status":"UNAVAILABLE"}}
+    at throwErrorIfNotOK (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-S2IQOR7T.js:35831:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-S2IQOR7T.js:35582:7
+    at async Models.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-S2IQOR7T.js:36641:16)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-QVTX2M5J.js:276581:26
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-QVTX2M5J.js:253666:23
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-QVTX2M5J.js:273586:23)
+    at async GeminiClient.generateContent (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-QVTX2M5J.js:312948:23)
+    at async WebSearchToolInvocation.execute (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-QVTX2M5J.js:307743:24)
+    at async executeToolWithHooks (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/bundle/chunk-QVTX2M5J.js:328644:22) {
+  status: 503
+}
